@@ -20,10 +20,10 @@ public class Panier {
 	}
 
 
-//	@Override
-//	public String toString() {
-//		return "Panier [contenu=" + contenu + "]";
-//	}
+	@Override
+	public String toString() {
+		return "Panier [contenu=" + contenu + "]";
+	}
 
 
 	
